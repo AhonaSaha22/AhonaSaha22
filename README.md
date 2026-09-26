@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on **North South University**
 
-- 🌱 I’m currently learning **Cpp,DBMS,Python,Java**
+- 🌱 I’m currently learning **Cpp,DBMS,Python,Java,Machine Learning**
 
 - 📫 How to reach me **sahaahona4@gmail.com**
 
